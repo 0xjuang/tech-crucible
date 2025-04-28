@@ -1,0 +1,205 @@
+Techstack_Blueprint:
+  Metadata:
+    Created_By: "Juan Garcia"
+    Vision: "Mastery of IT Operations, DevOps Engineering, Cybersecurity, Cloud Engineering, and Offensive Security before age 40"
+    Timeline: "Approx. 9 to 10 years total, flexible for life balance and personal growth"
+    Notes: "Each Phase is structured for mastery, not just certification. Life and faith take precedence over speed."
+
+  Phase_One:
+    Name: "Foundations"
+    Timeline: "18 months (flexible, includes reviews and capstone projects)"
+    Primary_Goals:
+      - "Completed: Google IT Support Professional Certification"
+      - "Complete Google IT Automation with Python Certification"
+      - "Complete CompTIA A+ Certification"
+      - "Complete CompTIA Network+ Certification"
+      - "Complete CompTIA Security+ Certification"
+    Supporting_Skills:
+      - "Linux basics: user management, permissions, CLI fluency"
+      - "Python scripting basics: automation scripts, small tools"
+      - "Homelab setup: create basic virtualized networks and Linux servers"
+    Mindset_Focus:
+      - "Master foundations deeply — not fast, but strong"
+      - "Build documentation habits: notes, diagrams, architecture thinking"
+      - "Understand > Memorize: Seek mental models, not flashcards"
+    Capstone_Projects:
+      - "Google IT Automation final projects (built-in)"
+      - "Hardware and Software Troubleshooting Guide (CompTIA A+ capstone)"
+      - "Small business network design and diagram (Network+ capstone)"
+      - "Security hardening checklist for personal Linux server (Security+ capstone)"
+    Secondary_Skills_Development:
+      - "Light Jenkins exploration (simple pipelines)"
+      - "Light Hack The Box practice (easy boxes, enumeration skills)"
+      - "Light Ansible playbook writing and testing"
+      - "Light GitHub repo cloning, project tinkering, basic version control"
+    Stackable_Certifications_Unlocked:
+      - "CompTIA IT Operations Specialist (A+ and Network+)"
+    References:
+      - "https://grow.google/certificates/it-support/"
+      - "https://grow.google/certificates/it-automation-python/"
+      - "https://www.comptia.org/certifications/a"
+      - "https://www.comptia.org/certifications/network"
+      - "https://www.comptia.org/certifications/security"
+
+  Phase_Two:
+    Name: "Systems and Cloud Foundations"
+    Timeline: "18 to 24 months (flexible, includes capstones and multi-projects)"
+    Primary_Goals:
+      - "Complete CompTIA Linux+ Certification"
+      - "Complete CompTIA Server+ Certification"
+      - "Complete CompTIA Cloud+ Certification"
+      - "Complete AWS Certified Solutions Architect – Associate"
+    Supporting_Skills:
+      - "Deepen Linux CLI, bash scripting, cron jobs, server security"
+      - "Deploy basic on-prem servers and virtual lab setups"
+      - "Launch and manage AWS services: EC2, S3, IAM, VPC"
+      - "Intro to Infrastructure as Code with Terraform"
+      - "Intro to SQL basics: database creation, queries, joins"
+      - "Intro to Golang basics: small CLI apps"
+    Mindset_Focus:
+      - "Master real system building, not just pass exams"
+      - "Automate everything you can, rebuild if you break"
+    Capstone_Projects:
+      - "Linux server hardened installation with scripts"
+      - "Physical or virtual Server+ style lab setup and operation manual"
+      - "Multi-tier application architecture deployed on AWS with Terraform templates"
+    Secondary_Skills_Development:
+      - "Docker exploration: build and manage containers"
+      - "Light Kubernetes exploration: Minikube, k3s"
+      - "Jenkins deeper dive: pipelines tied to repo updates"
+      - "Ansible practice for basic server setups"
+    Stackable_Certifications_Unlocked:
+      - "CompTIA Systems Support Specialist (A+ and Linux+)"
+      - "CompTIA Cloud Admin Professional (Network+ and Cloud+)"
+      - "CompTIA Network Infrastructure Professional (Network+ and Server+)"
+      - "CompTIA Linux Network Professional (Network+ and Linux+)"
+    References:
+      - "https://www.comptia.org/certifications/linux"
+      - "https://www.comptia.org/certifications/server"
+      - "https://www.comptia.org/certifications/cloud"
+      - "https://aws.amazon.com/certification/certified-solutions-architect-associate/"
+
+  Phase_Three:
+    Name: "DevOps Engineering and Security Specialization"
+    Timeline: "24 to 30 months (flexible, includes dual-track DevOps/Security growth)"
+    Primary_Goals:
+      - "Complete Google Cloud Associate Cloud Engineer Certification"
+      - "Complete CompTIA Pentest+ Certification"
+      - "Complete Certified Ethical Hacker (CEH)"
+      - "Complete CompTIA CySA+ Certification"
+      - "Complete Terraform fundamentals for multi-cloud deployments"
+    Supporting_Skills:
+      - "Master Docker image building, security best practices"
+      - "Deploy and manage Kubernetes clusters across clouds"
+      - "Full CI/CD pipelines using Jenkins, GitHub Actions, GitLab CI"
+      - "Intermediate SQL (advanced queries, database permissions hardening)"
+      - "Golang deeper dive (simple backend APIs, internal CLI tools)"
+      - "Rust language introduction (basic CLI tooling, ownership model understanding)"
+      - "Basic JavaScript scripting for web vulnerability understanding"
+    Mindset_Focus:
+      - "Integrate DevOps and Security, think full-stack system design"
+      - "Prepare for threat modeling, Red Team/Blue Team scenarios"
+    Capstone_Projects:
+      - "Build and deploy Kubernetes Docker app with CI/CD pipelines"
+      - "Terraform AWS+GCP multi-service architecture automation"
+      - "Develop custom pentesting tool in Python or Golang"
+      - "Document a full homelab red team simulation"
+    Secondary_Skills_Development:
+      - "Light reverse engineering (Ghidra basics)"
+      - "Cloud security hands-on: IAM exploits, container security"
+      - "Cloud-native serverless deployments and security hardening (AWS Lambda, GCP Functions)"
+    Stackable_Certifications_Unlocked:
+      - "CompTIA Network Vulnerability Assessment Professional (Security+ and Pentest+)"
+      - "CompTIA Security Analyst Professional (Security+ and CySA+)"
+      - "CompTIA Secure Cloud Professional (Security+ and Cloud+)"
+    References:
+      - "https://cloud.google.com/certification/cloud-engineer"
+      - "https://www.comptia.org/certifications/pentest"
+      - "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+      - "https://www.comptia.org/certifications/cybersecurity-analyst"
+
+  Phase_Four:
+    Name: "Offensive Security and Infrastructure Mastery"
+    Timeline: "24 to 30 months (flexible, includes hardcore projects and enterprise simulation)"
+    Primary_Goals:
+      - "Complete Offensive Security Certified Professional (OSCP)"
+      - "Complete CompTIA CASP+ Certification"
+      - "Master Kubernetes security and Rust offensive tool development"
+    Supporting_Skills:
+      - "Deep Linux kernel hardening"
+      - "Red team attack chain design and execution"
+      - "Blue team monitoring and incident response system building"
+      - "Advanced cloud security penetration and defense"
+    Mindset_Focus:
+      - "Think like an attacker, defend like an architect"
+      - "Automation of red/blue team exercises"
+    Capstone_Projects:
+      - "Simulate enterprise-scale red team attacks in homelab"
+      - "Defend Kubernetes cloud cluster from live attacks"
+      - "Build offensive security tool in Rust (e.g., scanner, credential dumper)"
+      - "Deploy SIEM with full pipeline: detection > alert > incident response"
+    Secondary_Skills_Development:
+      - "Exploit development basics"
+      - "Cloud red teaming exercises (AWS, GCP)"
+    Stackable_Achievements_Unlocked:
+      - "Offensive Security Certified Professional (OSCP)"
+      - "CompTIA Advanced Security Practitioner (CASP+)"
+      - "Rust Security Tool Developer"
+      - "Kubernetes Security Mastery"
+    References:
+      - "https://www.offensive-security.com/pwk-oscp/"
+      - "https://www.comptia.org/certifications/casp"
+
+  Phase_Five:
+    Name: "Mastery and Real-World Integration"
+    Timeline: "2+ years (ongoing career and technical growth)"
+    Primary_Goals:
+      - "Earn AWS Certified DevOps Engineer – Professional"
+      - "Earn Google Professional Cloud DevOps Engineer"
+      - "Earn Certified Kubernetes Administrator (CKA)"
+      - "Earn Certified Information Systems Security Professional (CISSP)"
+    Supporting_Skills:
+      - "Large-scale enterprise architecture leadership"
+      - "Multi-cloud DevSecOps strategy and implementation"
+      - "Rust and Go large-scale security tool development"
+      - "Mentorship, leadership, technical writing and public speaking"
+    Mindset_Focus:
+      - "Operate as an architect and lifelong learner"
+    Capstone_Projects:
+      - "Design multi-cloud secure infrastructure at production scale"
+      - "Open-source a major Rust/Go security tool"
+      - "Mentor junior engineers or create educational content"
+    Stackable_Achievements_Unlocked:
+      - "AWS Certified DevOps Engineer – Professional"
+      - "Google Professional Cloud DevOps Engineer"
+      - "Certified Kubernetes Administrator (CKA)"
+      - "Certified Information Systems Security Professional (CISSP)"
+    References:
+      - "https://aws.amazon.com/certification/certified-devops-engineer-professional/"
+      - "https://cloud.google.com/certification/devops-engineer"
+      - "https://www.cncf.io/certification/cka/"
+      - "https://www.isc2.org/Certifications/CISSP"
+
+  Tools_and_Platforms:
+    - "AWS Free Tier - https://aws.amazon.com/free/"
+    - "Google Cloud Free Tier - https://cloud.google.com/free"
+    - "Hack The Box - https://www.hackthebox.com/"
+    - "TryHackMe - https://tryhackme.com/"
+    - "Kubernetes Official Docs - https://kubernetes.io/docs/"
+    - "Terraform Registry - https://registry.terraform.io/"
+    - "Docker Hub - https://hub.docker.com/"
+    - "Rust Official Docs - https://doc.rust-lang.org/"
+    - "Golang Official Docs - https://go.dev/doc/"
+
+  Optional_Future_Certifications:
+    - "AWS Certified Security – Specialty"
+    - "GCP Professional Security Engineer"
+    - "Offensive Security Web Expert (OSWE)"
+    - "Certified Red Team Operator (CRTO)"
+    - "Advanced Cloud Red Team Certifications"
+
+  Life_Balance_Notes:
+    - "Family, friendships, faith, vacations, and downtime are essential to success."
+    - "Momentum and consistency matter more than raw speed."
+    - "This blueprint is a compass, not a cage — it adapts to life."
+    - "Live a meaningful life while building mastery, to honor God, family, and legacy."

@@ -1,0 +1,9 @@
+# .gitignore
+.DS_Store
+*.log
+*.bak
+*.tmp
+cert_docs/*.zip
+cert_docs/*.rar
+cert_docs/*.7z
+cert_docs/*.tar.gz
