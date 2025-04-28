@@ -57,6 +57,7 @@ The course involved completing multiple hands-on labs and support simulations ra
 - [Official Program Page](https://grow.google/certificates/it-support/)
 - [Credly Badge](https://www.credly.com/badges/c88685d7-0e61-4503-8780-97b376d32c3d/public_url)
 - [Coursera Certificate](https://coursera.org/share/164fd6f30cce68dcc37c6922d496d7c0)
+- [Certificate PDF](../cert_docs/google-it-support-professional-certificate.pdf)
 
 ## Final Reflection
 Completing the Google IT Support Professional Certification gave me the confidence to move deeper into IT. It validated my ability to troubleshoot real-world issues, built early Linux and networking foundations, and helped me build a mindset of hands-on problem-solving that carries through my entire blueprint. This cert marked the official beginning of my technical journey.
